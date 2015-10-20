@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convierte numeros a letras</string>
+    <string name="instruction">Escribe tu numero y presiona el boton!</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="user_input_hint">Escribe un número.</string>
+</resources>

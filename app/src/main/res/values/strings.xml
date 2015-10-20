@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convert Numbers to Words</string>
+    <string name="instruction">Type a number and convert it to words!</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="user_input_hint">Type a number</string>
+    <string name="user_input_error">Invalid number, the values must be in the format 9999999999</string>
+</resources>
